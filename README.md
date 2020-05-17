@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8ac2f97-cb87-4c4d-b327-823c9e40fff0/deploy-status)](https://app.netlify.com/sites/linx-challenge/deploys)
+
 |Biblioteca|Motivo do Uso|
 |-|-|
 | React Testing Library | Testes unitários |
