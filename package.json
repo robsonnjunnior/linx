@@ -25,7 +25,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "coverage": "react-scripts test --coverage --watchAll=false"
+    "coverage": "react-scripts test --coverage --watchAll=false",
+    "coveralls": "react-scripts test --coverage --coverageReporters=text-lcov | coveralls"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -49,5 +50,8 @@
       "!**/src/core/*-config.{js,jsx}",
       "!**/src/index.{js,jsx}"
     ]
+  },
+  "devDependencies": {
+    "coveralls": "3.0.9"
   }
 }
