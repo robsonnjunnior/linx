@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8ac2f97-cb87-4c4d-b327-823c9e40fff0/deploy-status)](https://app.netlify.com/sites/linx-challenge/deploys)
+[![CircleCI](https://circleci.com/gh/JandersonConstantino/linx.svg?style=svg)](https://circleci.com/gh/JandersonConstantino/linx)
 [![Coverage Status](https://coveralls.io/repos/github/JandersonConstantino/linx/badge.svg?branch=master)](https://coveralls.io/github/JandersonConstantino/linx?branch=master)
 
 |Biblioteca|Motivo do Uso|
